@@ -1,0 +1,6 @@
+C:\Users\tomas\Desktop\Tps\2cuatrimestre\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\tomas\Desktop\Tps\2cuatrimestre\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\tomas\Desktop\Tps\2cuatrimestre\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tomas\Desktop\Tps\2cuatrimestre\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Tps\2cuatrimestre\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\tomas\Desktop\Tps\2cuatrimestre\Entidades\Entidades\obj\Debug\Entidades.pdb
